@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="./Gemini_Generated_Image_vucrz7vucrz7vucr.jpeg" alt="Mahdi GitHub Banner" width="100%">
+  <img src="./assets/Gemini_Generated_Image_vucrz7vucrz7vucr.jpeg" alt="Mahdi GitHub Banner" width="100%">
 </p>
 
 <!-- ======================= INTRO ======================= -->
