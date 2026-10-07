@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎨 Product Designer with a passion for technology
-- 💻 Currently learning **Web Development**
-- 🧠 Interested in **Problem Solving & Software Engineering**
-- 🚀 Building projects and improving my skills every day
-- 📚 Currently pursuing my **Master's degree at MC College**
-- 🎯 Future Goal: Become a **Full-Stack Software Developer**
-- 🤖 Long-term Goal: Become a **Machine Learning Expert**
+* 🎨 Product Designer with a passion for technology
+* 💻 Currently learning **Web Development**
+* 🧠 Interested in **Problem Solving & Software Engineering**
+* 🚀 Building projects and improving my skills every day
+* 📚 Currently pursuing my **Master's degree at MC College**
+* 🎯 Future Goal: Become a **Full-Stack Software Developer**
+* 🤖 Long-term Goal: Become a **Machine Learning Expert**
 
 ---
 
@@ -66,3 +66,70 @@ React
 Full-Stack Development
       ↓
 Machine Learning 🤖
+```
+
+---
+
+## 🚀 Live Projects
+
+### 🧩 Dev Stack Builder
+
+A responsive React application for exploring technologies and building your personal development stack.
+
+**Tech Stack:** React • TypeScript • Tailwind CSS • Vite
+
+🔗 **[Live Demo](https://dev-stack-two-flame.vercel.app/)**
+📁 **[Source Code](https://github.com/mdmahdi-dev/dev-stack)**
+
+---
+
+## 📚 Currently Learning
+
+* ⚛️ React
+* 🔷 TypeScript
+* 🎨 Tailwind CSS
+* 🌐 APIs & JSON
+* 🔄 CRUD Operations
+* 🧩 Problem Solving
+* 🚀 Next.js
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Become confident with React
+* [ ] Build real-world web applications
+* [ ] Learn Next.js
+* [ ] Strengthen TypeScript skills
+* [ ] Improve problem-solving skills
+* [ ] Build full-stack projects
+* [ ] Deploy more projects
+* [ ] Become a professional Full-Stack Developer
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmahdi-dev&show_icons=true&theme=default" alt="Mahdi's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmahdi-dev" alt="Mahdi's GitHub Streak">
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/mdmahdi-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>🚀 Learning. Building. Improving. One project at a time.</i>
+</p>
