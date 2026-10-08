@@ -81,6 +81,16 @@ A responsive React application for exploring technologies and building your pers
 🔗 **[Live Demo](https://dev-stack-two-flame.vercel.app/)**
 📁 **[Source Code](https://github.com/mdmahdi-dev/dev-stack)**
 
+
+### 🏋️ FitLog
+
+A responsive workout library and planning application built with Next.js. Browse workouts, view detailed exercise information, create a daily workout plan, save workouts for later, and track completed exercises.
+
+**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • REST API • LocalStorage
+
+🔗 **[Live Demo](FITLOG_LIVE_URL)**
+📁 **[Source Code](FITLOG_GITHUB_URL)**
+
 ---
 
 ## 📚 Currently Learning
