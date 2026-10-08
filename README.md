@@ -88,8 +88,8 @@ A responsive workout library and planning application built with Next.js. Browse
 
 **Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • REST API • LocalStorage
 
-🔗 **[Live Demo](FITLOG_LIVE_URL)**
-📁 **[Source Code](FITLOG_GITHUB_URL)**
+🔗 **[Live Demo](https://fit-log-rho-six.vercel.app/)**
+📁 **[Source Code](https://github.com/mdmahdi-dev/fit-log)**
 
 ---
 
