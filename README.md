@@ -44,13 +44,13 @@ I'm a web development learner focused on building practical projects and strengt
 ### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, and Next.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" alt="Git, GitHub, VS Code, npm, and Vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" alt="Git, GitHub, VS Code, npm, Vercel" />
 </p>
 
 ### Currently Exploring
