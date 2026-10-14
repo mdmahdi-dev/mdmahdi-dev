@@ -6,126 +6,100 @@
 
 <!-- ======================= INTRO ======================= -->
 
+
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 
-<h3 align="center">
-  Product Designer → Web Developer in Progress 🚀
-</h3>
+<h3 align="center">Web Developer | React & Next.js</h3>
 
 <p align="center">
-  I love turning ideas into meaningful digital products and building engaging web experiences.
+  Building responsive, user-friendly web applications with modern web technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mdmahdi-dev">
+    <img src="https://img.shields.io/badge/GitHub-mdmahdi--dev-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
+  </a>
+  <a href="https://dev-stack-two-flame.vercel.app/">
+    <img src="https://img.shields.io/badge/Dev_Stack-Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Dev Stack Builder Live Demo">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎨 Product Designer with a passion for technology
-* 💻 Currently learning **Web Development**
-* 🧠 Interested in **Problem Solving & Software Engineering**
-* 🚀 Building projects and improving my skills every day
-* 📚 Currently pursuing my **Master's degree at MC College**
-* 🎯 Future Goal: Become a **Full-Stack Software Developer**
-* 🤖 Long-term Goal: Become a **Machine Learning Expert**
+I'm a web development learner focused on building practical projects and strengthening my skills in modern frontend development. I enjoy turning ideas into functional web experiences and continuously improving through hands-on coding.
+
+* 💻 Learning and building with **React, Next.js, and TypeScript**
+* 🚀 Developing responsive web applications and working with REST APIs
+* 🧩 Practicing JavaScript, TypeScript, and problem-solving
+* 🎓 Pursuing my Master's degree at MC College
+* 🎯 Working toward becoming a **Full-Stack Software Developer**
+* 🤖 Interested in exploring Machine Learning in the future
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🛠️ Tech Stack
 
-### Frontend
+### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" alt="Frontend Technologies">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, and Next.js" />
 </p>
 
-### Tools
+### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" alt="Git, GitHub, VS Code, npm, and Vercel" />
+</p>
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" alt="Node.js and MongoDB" />
 </p>
 
 ---
 
-## 📈 My Learning Journey
-
-```text
-Product Design
-      ↓
-HTML & CSS
-      ↓
-Tailwind CSS
-      ↓
-JavaScript
-      ↓
-ES6 & Problem Solving
-      ↓
-TypeScript
-      ↓
-React
-      ↓
-Full-Stack Development
-      ↓
-Machine Learning 🤖
-```
-
----
-
-## 🚀 Live Projects
+## 🚀 Featured Projects
 
 ### 🧩 Dev Stack Builder
 
-A responsive React application for exploring technologies and building your personal development stack.
+A responsive application for exploring technologies and building a personal development stack. Includes technology cards and interactive stack management.
 
-**Tech Stack:** React • TypeScript • Tailwind CSS • Vite
-
-🔗 **[Live Demo](https://dev-stack-two-flame.vercel.app/)**
-📁 **[Source Code](https://github.com/mdmahdi-dev/dev-stack)**
-
+* **Technologies:** React, TypeScript, Tailwind CSS, Vite
+* 🌐 **[Live Demo](https://dev-stack-two-flame.vercel.app/)**
+* 💻 **[Source Code](https://github.com/mdmahdi-dev/dev-stack)**
 
 ### 🏋️ FitLog
 
-A responsive workout library and planning application built with Next.js. Browse workouts, view detailed exercise information, create a daily workout plan, save workouts for later, and track completed exercises.
+A workout library and planning application that lets users browse workouts, explore exercise details, build a workout plan, save workouts, and track completed exercises.
 
-**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • REST API • LocalStorage
-
-🔗 **[Live Demo](https://fit-log-rho-six.vercel.app/)**
-📁 **[Source Code](https://github.com/mdmahdi-dev/fit-log)**
+* **Technologies:** Next.js, React, TypeScript, Tailwind CSS, REST API
+* 🌐 **[Live Demo](https://fit-log-rho-six.vercel.app/)**
+* 💻 **[Source Code](https://github.com/mdmahdi-dev/fit-log)**
 
 ---
 
 ## 📚 Currently Learning
 
-* ⚛️ React
-* 🔷 TypeScript
-* 🎨 Tailwind CSS
-* 🌐 APIs & JSON
-* 🔄 CRUD Operations
-* 🧩 Problem Solving
-* 🚀 Next.js
+* Strengthening React and Next.js fundamentals
+* Building typed, reusable components with TypeScript
+* Working with APIs, JSON, and CRUD operations
+* Improving responsive UI development with Tailwind CSS
+* Exploring backend development and database integration
 
 ---
 
-## 🎯 2026 Goals
-
-* [ ] Become confident with React
-* [ ] Build real-world web applications
-* [ ] Learn Next.js
-* [ ] Strengthen TypeScript skills
-* [ ] Improve problem-solving skills
-* [ ] Build full-stack projects
-* [ ] Deploy more projects
-* [ ] Become a professional Full-Stack Developer
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmahdi-dev&show_icons=true&theme=default" alt="Mahdi's GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdmahdi-dev&show_icons=true&hide_border=true&theme=transparent" alt="Mahdi's GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahdi-dev&layout=compact&hide_border=true&theme=transparent" alt="Mahdi's Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmahdi-dev" alt="Mahdi's GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmahdi-dev&hide_border=true&theme=transparent" alt="Mahdi's GitHub Contribution Streak" />
 </p>
 
 ---
@@ -134,12 +108,18 @@ A responsive workout library and planning application built with Next.js. Browse
 
 <p align="left">
   <a href="https://github.com/mdmahdi-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <!-- Add your LinkedIn URL below after confirming your public profile URL. -->
+  <!--
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  -->
 </p>
 
 ---
 
 <p align="center">
-  <i>🚀 Learning. Building. Improving. One project at a time.</i>
+  <i>Learn continuously. Build consistently. Improve every day. 🚀</i>
 </p>
